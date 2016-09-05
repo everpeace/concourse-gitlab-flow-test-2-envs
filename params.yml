@@ -1,0 +1,7 @@
+github-repo-uri: git@github.com:everpeace/concourse-gitlab-flow-test-2-envs.git
+github-repo-name: everpeace/concourse-gitlab-flow-test-2-envs
+
+initial-version: 0.0.1-dev.1
+
+git-email: everpeace@gmail.com
+git-name: Shingo Omura
